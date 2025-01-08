@@ -4,6 +4,8 @@ teaching: 10
 exercises: 2
 ---
 
+### Group 7: Mathews Daniel, Carroll Joseph, Layne Sky
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - What is an animation?
