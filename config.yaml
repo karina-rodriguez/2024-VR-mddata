@@ -68,9 +68,9 @@ episodes:
 - cameras.Rmd # Group 4
 - controllers.Rmd # Group 8
 - navigation.Rmd  # Group 9
-- ray-casting-and-collision.Rmd  # Group 7
+- ray-casting-and-collision.Rmd #Group 3
 - lighting.Rmd  # Group 5
-- animations.Rmd
+- animations.Rmd # Group 7
 - shaders.Rmd  # Group 10
 - particle-effects.Rmd  # Group 11
 - links.Rmd
